@@ -28,7 +28,7 @@
 
 ## Công Nghệ Sử Dụng 🔧
 
-** Java SE 8 trở lên
+- Java SE 8 trở lên
 
-** IDE: IntelliJ IDEA, Eclipse hoặc NetBeans
+- IDE: IntelliJ IDEA, Eclipse hoặc NetBeans
 
