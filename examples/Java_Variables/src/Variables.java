@@ -31,6 +31,8 @@ public class Variables {
     String myClass = "SE1805";
     myClass = "SE1826";
         System.out.println("My class: " + myClass);
+        
+        
     //2. Final Variable
     /*If you dont want to other or yourself to overwrite existing values,
       use the "final" keyword, this will declare the variable as "final" or "constant",
@@ -38,7 +40,7 @@ public class Variables {
     final String studentId = "SE183964";
         System.out.println("My student ID: " + studentId);
         
-    
+        
     //3. Other types:
     System.out.println("---------------------------");
     int myNum = 3;
